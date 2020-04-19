@@ -1,5 +1,5 @@
 # snowflake-udemy
-Repository for Udemy Course - Snowflake Decoded - Fundamentals and hands on Training
+Repository for [Udemy Course - Snowflake Decoded - Fundamentals and hands on Training](https://www.udemy.com/course/snowflake-essentials/)
 
 This course provides Snowflake concepts & hands on expertise to help get you started on implementing solutions using Snowflake. This course reinforces the learning through hands on labs, assignments & quizzes.
 At a high level we will go through the following topics
